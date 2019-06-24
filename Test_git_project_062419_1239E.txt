@@ -1,0 +1,2 @@
+JUne 24, 2019
+Test file for git repo in myprojects
